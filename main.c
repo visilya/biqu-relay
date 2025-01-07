@@ -1,4 +1,4 @@
-#include <stc12h.h>
+#include <stc15.h>
 
 #define bool bit
 #define false (0)
